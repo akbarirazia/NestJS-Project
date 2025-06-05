@@ -5,8 +5,8 @@ import { UserProfileDto } from './dto/user-profile.dto';
 @Injectable()
 export class UsersService {
   private readonly mockUser: User = {
-    id: 'mock-user-id',
-    email: 'user@example.com',
+    id: '1',
+    email: 'akbariharis14@gmail.com',
     name: 'Mock User',
   };
 
