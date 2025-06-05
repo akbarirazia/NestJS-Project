@@ -23,7 +23,7 @@
 
 ## Description
 
-This project is a mini challange project which has JWT and messaging system integrated, currently not attached to any database and uses mock data. Swagger was used to API documentation.
+This project is a mini challange project which has JWT and messaging system integrated, currently not attached to any database and uses mock data. Swagger was used for API documentation. Read below to setup and run the project
 
 ## Project setup
 
