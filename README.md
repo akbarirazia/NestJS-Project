@@ -23,7 +23,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This project is a mini challange project which has JWT and messaging system integrated, currently not attached to any database and uses mock data. Swagger was used to API documentation.
 
 ## Project setup
 
